@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="제조사별로 도전하는 승리의 여신: 니케 캐릭터 이름 맞히기 웹게임">
+  <meta name="theme-color" content="#111923">
+  <title>니케 제조사 도감 · 이름 맞히기</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header><a class="brand" href="./">NIKKE <span>PERSONNEL ARCHIVE</span></a><span class="edition">FAN MADE · 한국어 도감</span></header>
+  <main>
+    <section class="hero">
+      <p class="eyebrow">COMMANDER, ALL SQUADS STANDING BY.</p>
+      <h1>지휘관, 이번엔<br><em>모두 기억하시나요?</em></h1>
+      <p class="intro">승리의 여신: 니케 이름 맞히기.<br>제조사별로 빈 도감을 채워보세요.</p>
+      <div class="hero-mark" aria-hidden="true"><span>TACTICAL DATABASE</span><strong>N</strong><small>HUMANITY'S LAST HOPE</small></div>
+    </section>
+    <section class="panel" aria-label="게임 설정">
+      <div class="settings">
+        <label for="company">연습할 제조사 <select id="company"><option value="all">모든 제조사</option></select></label>
+        <label class="toggle"><input id="variants" type="checkbox" checked> 이격 포함</label>
+        <button id="reset" class="quiet" type="button" disabled>다시 시작 ↻</button>
+      </div>
+      <div class="play">
+        <form id="answer-form">
+          <label for="answer">니케 이름을 입력해 주세요</label>
+          <div class="inputrow"><input id="answer" type="text" maxlength="100" autocomplete="off" spellcheck="false" placeholder="예: 라피, 라피 : 레드 후드" disabled><button id="submit" type="submit" disabled>정답 확인 ↗</button></div>
+        </form>
+        <div class="stats"><div><span>직접 맞힌 니케</span><strong id="score">0 / 0</strong></div><div><span>경과 시간</span><strong id="timer">00:00</strong></div></div>
+      </div>
+      <div class="track" role="progressbar" aria-label="도감 완성도" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><div id="progress"></div></div>
+      <p id="feedback" role="status" aria-live="polite">니케 도감 데이터를 불러오고 있습니다…</p>
+      <p class="input-help">Enter로 제출 · 공백·콜론 생략 가능 · 동명이인은 이름(제조사)로 입력</p>
+    </section>
+    <div class="section-title"><h2>제조사별 도감</h2><span>빈 카드를 누르면 정답을 공개합니다</span></div>
+    <nav id="nav" aria-label="제조사 바로가기"></nav>
+    <div id="board"></div>
+    <footer>
+      <p id="data-info"></p>
+      <p>R · SR · SSR 캐릭터 · 콜라보 포함 · 코스튬 및 NPC 제외</p>
+      <p>비공식 팬 게임 · © SHIFT UP / Level Infinite<br>한국어 데이터: <a href="https://github.com/leegunwoooo/nikke-api" target="_blank" rel="noreferrer">nikke-api</a> · 이미지: <a href="https://www.blablalink.com/" target="_blank" rel="noreferrer">BlablaLink CDN</a></p>
+    </footer>
+  </main>
+  <script src="app.js" defer></script>
+</body>
+</html>

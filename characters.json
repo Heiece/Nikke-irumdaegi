@@ -1,0 +1,3065 @@
+{
+  "source": "https://nikke-api-gunwoos-projects.vercel.app/api/nikkes?limit=500",
+  "collectedAt": "2026-10-28T02:09:35.153182+00:00",
+  "revision": "5baeb487e92ef81a",
+  "companies": {
+    "ELYSION": "엘리시온",
+    "MISSILIS": "미실리스",
+    "TETRA": "테트라",
+    "PILGRIM": "필그림",
+    "ABNORMAL": "어브노멀"
+  },
+  "characters": [
+    {
+      "id": 204001,
+      "name": "D",
+      "label": "D",
+      "english": "D",
+      "company": "ELYSION",
+      "isVariant": false,
+      "aliases": [
+        "D(엘리시온)",
+        "D(ELYSION)",
+        "D(엘리시온)",
+        "D(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/an-80/hp-20/6fdc107538b247f87b46d08c783053b3.webp"
+    },
+    {
+      "id": 204301,
+      "name": "D : 킬러 와이프",
+      "label": "D : 킬러 와이프",
+      "english": "D: Killer Wife",
+      "company": "ELYSION",
+      "isVariant": true,
+      "aliases": [
+        "D : 킬러 와이프(엘리시온)",
+        "D : 킬러 와이프(ELYSION)",
+        "D: Killer Wife(엘리시온)",
+        "D: Killer Wife(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/zi-41/od-26/a7454375ef26de7ab36031151ab2fe35.webp"
+    },
+    {
+      "id": 211301,
+      "name": "E.H.",
+      "label": "E.H.",
+      "english": "E.H.",
+      "company": "ELYSION",
+      "isVariant": false,
+      "aliases": [
+        "E.H.(엘리시온)",
+        "E.H.(ELYSION)",
+        "E.H.(엘리시온)",
+        "E.H.(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/mc-78/zu-92/363d6ec11668234f35c4e2fa7616f846.webp"
+    },
+    {
+      "id": 204101,
+      "name": "K",
+      "label": "K",
+      "english": "K",
+      "company": "ELYSION",
+      "isVariant": false,
+      "aliases": [
+        "K(엘리시온)",
+        "K(ELYSION)",
+        "K(엘리시온)",
+        "K(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/ft-09/sz-93/aafafd7a73810a9004f575b524a4739a.webp"
+    },
+    {
+      "id": 218001,
+      "name": "길로틴",
+      "label": "길로틴",
+      "english": "Guillotine",
+      "company": "ELYSION",
+      "isVariant": false,
+      "aliases": [
+        "길로틴(엘리시온)",
+        "길로틴(ELYSION)",
+        "Guillotine(엘리시온)",
+        "Guillotine(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/ra-85/nn-35/a4c7c2cb8fa0b965c4fd69fd76af2783.webp"
+    },
+    {
+      "id": 218201,
+      "name": "길로틴 : 윈터 슬레이어",
+      "label": "길로틴 : 윈터 슬레이어",
+      "english": "Guillotine: Winter Slayer",
+      "company": "ELYSION",
+      "isVariant": true,
+      "aliases": [
+        "길로틴 : 윈터 슬레이어(엘리시온)",
+        "길로틴 : 윈터 슬레이어(ELYSION)",
+        "Guillotine: Winter Slayer(엘리시온)",
+        "Guillotine: Winter Slayer(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/nf-49/yb-89/3010423589d6dc5b92f97cbc1cd14053.webp"
+    },
+    {
+      "id": 201101,
+      "name": "네온",
+      "label": "네온",
+      "english": "Neon",
+      "company": "ELYSION",
+      "isVariant": false,
+      "aliases": [
+        "네온(엘리시온)",
+        "네온(ELYSION)",
+        "Neon(엘리시온)",
+        "Neon(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/uw-07/dg-73/dd44ddf184f32d90dc07cf95b2795412.webp"
+    },
+    {
+      "id": 201401,
+      "name": "네온 : 블루 오션",
+      "label": "네온 : 블루 오션",
+      "english": "Neon: Blue Ocean",
+      "company": "ELYSION",
+      "isVariant": true,
+      "aliases": [
+        "네온 : 블루 오션(엘리시온)",
+        "네온 : 블루 오션(ELYSION)",
+        "Neon: Blue Ocean(엘리시온)",
+        "Neon: Blue Ocean(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/fk-74/dr-33/33e2bdbc097bfe2ddbe0abd2e1fd02a5.webp"
+    },
+    {
+      "id": 202001,
+      "name": "델타",
+      "label": "델타",
+      "english": "Delta",
+      "company": "ELYSION",
+      "isVariant": false,
+      "aliases": [
+        "델타(엘리시온)",
+        "델타(ELYSION)",
+        "Delta(엘리시온)",
+        "Delta(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/fj-90/ll-52/c323eb897a0788dd888219ce3f8ed0c2.webp"
+    },
+    {
+      "id": 502301,
+      "name": "델타 : 닌자 시프",
+      "label": "델타 : 닌자 시프",
+      "english": "Delta: Ninja Thief",
+      "company": "ELYSION",
+      "isVariant": true,
+      "aliases": [
+        "델타 : 닌자 시프(엘리시온)",
+        "델타 : 닌자 시프(ELYSION)",
+        "Delta: Ninja Thief(엘리시온)",
+        "Delta: Ninja Thief(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/px-58/lw-12/26016d784ba7271f57ef417fea7b5fc1.webp"
+    },
+    {
+      "id": 207201,
+      "name": "디젤",
+      "label": "디젤",
+      "english": "Diesel",
+      "company": "ELYSION",
+      "isVariant": false,
+      "aliases": [
+        "디젤(엘리시온)",
+        "디젤(ELYSION)",
+        "Diesel(엘리시온)",
+        "Diesel(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/ez-15/yp-19/c006e5e77a3bd6bca9bd3defad3601b1.webp"
+    },
+    {
+      "id": 207501,
+      "name": "디젤 : 윈터 스위츠",
+      "label": "디젤 : 윈터 스위츠",
+      "english": "Diesel: Winter Sweets",
+      "company": "ELYSION",
+      "isVariant": true,
+      "aliases": [
+        "디젤 : 윈터 스위츠(엘리시온)",
+        "디젤 : 윈터 스위츠(ELYSION)",
+        "Diesel: Winter Sweets(엘리시온)",
+        "Diesel: Winter Sweets(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/pn-82/za-78/6bf2f9261d5b41c4659692a6eb78527a.webp"
+    },
+    {
+      "id": 201001,
+      "name": "라피",
+      "label": "라피",
+      "english": "Rapi",
+      "company": "ELYSION",
+      "isVariant": false,
+      "aliases": [
+        "라피(엘리시온)",
+        "라피(ELYSION)",
+        "Rapi(엘리시온)",
+        "Rapi(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/gn-03/nj-68/48bc957318d19b4d873a9b423d6d51fa.webp"
+    },
+    {
+      "id": 201601,
+      "name": "라피 : 레드 후드",
+      "label": "라피 : 레드 후드",
+      "english": "Rapi: Red Hood",
+      "company": "ELYSION",
+      "isVariant": true,
+      "aliases": [
+        "라피 : 레드 후드(엘리시온)",
+        "라피 : 레드 후드(ELYSION)",
+        "Rapi: Red Hood(엘리시온)",
+        "Rapi: Red Hood(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/yz-07/yv-65/d2c988a262dd44579c299337d5658c40.webp"
+    },
+    {
+      "id": 258201,
+      "name": "레이블",
+      "label": "레이블",
+      "english": "Label",
+      "company": "ELYSION",
+      "isVariant": false,
+      "aliases": [
+        "레이블(엘리시온)",
+        "레이블(ELYSION)",
+        "Label(엘리시온)",
+        "Label(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/tl-27/po-17/af2657ff5ffb44f70ed2db8d5de8985a.webp"
+    },
+    {
+      "id": 232101,
+      "name": "마르차나",
+      "label": "마르차나",
+      "english": "Marciana",
+      "company": "ELYSION",
+      "isVariant": false,
+      "aliases": [
+        "마르차나(엘리시온)",
+        "마르차나(ELYSION)",
+        "Marciana(엘리시온)",
+        "Marciana(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/ex-64/gv-20/fa34347a9112fef4a27188b0cfd64e2b.webp"
+    },
+    {
+      "id": 232201,
+      "name": "마르차나 : 마린 스터디",
+      "label": "마르차나 : 마린 스터디",
+      "english": "Marciana: Marine Study",
+      "company": "ELYSION",
+      "isVariant": true,
+      "aliases": [
+        "마르차나 : 마린 스터디(엘리시온)",
+        "마르차나 : 마린 스터디(ELYSION)",
+        "Marciana: Marine Study(엘리시온)",
+        "Marciana: Marine Study(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/kd-92/mc-47/22358e5b13dda043a42cca169356c875.webp"
+    },
+    {
+      "id": 235001,
+      "name": "마스트",
+      "label": "마스트",
+      "english": "Mast",
+      "company": "ELYSION",
+      "isVariant": false,
+      "aliases": [
+        "마스트(엘리시온)",
+        "마스트(ELYSION)",
+        "Mast(엘리시온)",
+        "Mast(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/bl-62/gr-35/ff70ed8ba2e63090b39c68c61e23cf49.webp"
+    },
+    {
+      "id": 235401,
+      "name": "마스트 : 로망틱 메이드",
+      "label": "마스트 : 로망틱 메이드",
+      "english": "Mast: Romantic Maid",
+      "company": "ELYSION",
+      "isVariant": true,
+      "aliases": [
+        "마스트 : 로망틱 메이드(엘리시온)",
+        "마스트 : 로망틱 메이드(ELYSION)",
+        "Mast: Romantic Maid(엘리시온)",
+        "Mast: Romantic Maid(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/ai-34/wz-00/ce3b833cd35960c9bf06fce4351e8812.webp"
+    },
+    {
+      "id": 218101,
+      "name": "메이든",
+      "label": "메이든",
+      "english": "Maiden",
+      "company": "ELYSION",
+      "isVariant": false,
+      "aliases": [
+        "메이든(엘리시온)",
+        "메이든(ELYSION)",
+        "Maiden(엘리시온)",
+        "Maiden(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/hz-21/su-62/43630f7a549ce000225c8c9896f92ee0.webp"
+    },
+    {
+      "id": 218301,
+      "name": "메이든 : 아이스 로즈",
+      "label": "메이든 : 아이스 로즈",
+      "english": "Maiden: Ice Rose",
+      "company": "ELYSION",
+      "isVariant": true,
+      "aliases": [
+        "메이든 : 아이스 로즈(엘리시온)",
+        "메이든 : 아이스 로즈(ELYSION)",
+        "Maiden: Ice Rose(엘리시온)",
+        "Maiden: Ice Rose(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/bo-53/ny-94/9163759961bd6052bca348f719138ebe.webp"
+    },
+    {
+      "id": 203201,
+      "name": "미란다",
+      "label": "미란다",
+      "english": "Miranda",
+      "company": "ELYSION",
+      "isVariant": false,
+      "aliases": [
+        "미란다(엘리시온)",
+        "미란다(ELYSION)",
+        "Miranda(엘리시온)",
+        "Miranda(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/vg-25/er-68/88e9d12d692695aaae54b796a4e3d0a4.webp"
+    },
+    {
+      "id": 209101,
+      "name": "베스티",
+      "label": "베스티",
+      "english": "Vesti",
+      "company": "ELYSION",
+      "isVariant": false,
+      "aliases": [
+        "베스티(엘리시온)",
+        "베스티(ELYSION)",
+        "Vesti(엘리시온)",
+        "Vesti(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/lu-01/ew-81/920c4fa237f3c65a3aa1225d9c153b39.webp"
+    },
+    {
+      "id": 209401,
+      "name": "베스티 : 택티컬 업",
+      "label": "베스티 : 택티컬 업",
+      "english": "Vesti: Tactical Upgrade",
+      "company": "ELYSION",
+      "isVariant": true,
+      "aliases": [
+        "베스티 : 택티컬 업(엘리시온)",
+        "베스티 : 택티컬 업(ELYSION)",
+        "Vesti: Tactical Upgrade(엘리시온)",
+        "Vesti: Tactical Upgrade(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/ts-37/px-19/75b8663dc471b8aa915c55edebca32cf.webp"
+    },
+    {
+      "id": 207001,
+      "name": "브리드",
+      "label": "브리드",
+      "english": "Brid",
+      "company": "ELYSION",
+      "isVariant": false,
+      "aliases": [
+        "브리드(엘리시온)",
+        "브리드(ELYSION)",
+        "Brid(엘리시온)",
+        "Brid(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/lk-82/xi-40/8bd89cef4cf31e38b71035575d91f88b.webp"
+    },
+    {
+      "id": 207301,
+      "name": "브리드 : 사일런트 트랙",
+      "label": "브리드 : 사일런트 트랙",
+      "english": "Brid: Silent Track",
+      "company": "ELYSION",
+      "isVariant": true,
+      "aliases": [
+        "브리드 : 사일런트 트랙(엘리시온)",
+        "브리드 : 사일런트 트랙(ELYSION)",
+        "Brid: Silent Track(엘리시온)",
+        "Brid: Silent Track(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/vy-50/dw-46/830d9d8541fce0c485950e38050b1c6d.webp"
+    },
+    {
+      "id": 253201,
+      "name": "소라",
+      "label": "소라",
+      "english": "Sora",
+      "company": "ELYSION",
+      "isVariant": false,
+      "aliases": [
+        "소라(엘리시온)",
+        "소라(ELYSION)",
+        "Sora(엘리시온)",
+        "Sora(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/nk-35/dr-29/abc35cf08ccbbb51f7403606cd19c231.webp"
+    },
+    {
+      "id": 207101,
+      "name": "솔린",
+      "label": "솔린",
+      "english": "Soline",
+      "company": "ELYSION",
+      "isVariant": false,
+      "aliases": [
+        "솔린(엘리시온)",
+        "솔린(ELYSION)",
+        "Soline(엘리시온)",
+        "Soline(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/zt-86/is-14/db85d381d5c624a59c1e4346cf49218f.webp"
+    },
+    {
+      "id": 207401,
+      "name": "솔린 : 프로스트 티켓",
+      "label": "솔린 : 프로스트 티켓",
+      "english": "Soline: Frost Ticket",
+      "company": "ELYSION",
+      "isVariant": true,
+      "aliases": [
+        "솔린 : 프로스트 티켓(엘리시온)",
+        "솔린 : 프로스트 티켓(ELYSION)",
+        "Soline: Frost Ticket(엘리시온)",
+        "Soline: Frost Ticket(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/kh-54/tt-51/8b439391ad93e8bd3ae2a1f73fcd6c49.webp"
+    },
+    {
+      "id": 230001,
+      "name": "솔져 E.G.",
+      "label": "솔져 E.G.",
+      "english": "Soldier EG",
+      "company": "ELYSION",
+      "isVariant": false,
+      "aliases": [
+        "솔져 E.G.(엘리시온)",
+        "솔져 E.G.(ELYSION)",
+        "Soldier EG(엘리시온)",
+        "Soldier EG(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/vk-70/or-01/0e0dffc7ddb90f3765cd08e0cafb8f27.webp"
+    },
+    {
+      "id": 230101,
+      "name": "솔져 F.A.",
+      "label": "솔져 F.A.",
+      "english": "Soldier FA",
+      "company": "ELYSION",
+      "isVariant": false,
+      "aliases": [
+        "솔져 F.A.(엘리시온)",
+        "솔져 F.A.(ELYSION)",
+        "Soldier FA(엘리시온)",
+        "Soldier FA(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/jt-74/eo-06/844efc3365f45226b7ab2764c251d48f.webp"
+    },
+    {
+      "id": 230601,
+      "name": "솔져 O.W.",
+      "label": "솔져 O.W.",
+      "english": "Soldier OW",
+      "company": "ELYSION",
+      "isVariant": false,
+      "aliases": [
+        "솔져 O.W.(엘리시온)",
+        "솔져 O.W.(ELYSION)",
+        "Soldier OW(엘리시온)",
+        "Soldier OW(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/nw-74/gg-44/caf1158e8a40cf8609620360df7205a4.webp"
+    },
+    {
+      "id": 202201,
+      "name": "시그널",
+      "label": "시그널",
+      "english": "Signal",
+      "company": "ELYSION",
+      "isVariant": false,
+      "aliases": [
+        "시그널(엘리시온)",
+        "시그널(ELYSION)",
+        "Signal(엘리시온)",
+        "Signal(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/kr-30/gp-84/08f91c530da192535d95b79d6c9f580a.webp"
+    },
+    {
+      "id": 258101,
+      "name": "아르카나",
+      "label": "아르카나",
+      "english": "Arcana",
+      "company": "ELYSION",
+      "isVariant": false,
+      "aliases": [
+        "아르카나(엘리시온)",
+        "아르카나(ELYSION)",
+        "Arcana(엘리시온)",
+        "Arcana(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/of-98/kh-89/2a8b1a833483ca6aaef103f3ce487f0b.webp"
+    },
+    {
+      "id": 258301,
+      "name": "아르카나 : 포츈 메이트",
+      "label": "아르카나 : 포츈 메이트",
+      "english": "Arcana: Fortune Mate",
+      "company": "ELYSION",
+      "isVariant": true,
+      "aliases": [
+        "아르카나 : 포츈 메이트(엘리시온)",
+        "아르카나 : 포츈 메이트(ELYSION)",
+        "Arcana: Fortune Mate(엘리시온)",
+        "Arcana: Fortune Mate(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/hu-31/fl-22/81a33cc568f575e1ed6fdf904a4ac7d6.webp"
+    },
+    {
+      "id": 244101,
+      "name": "아비스타",
+      "label": "아비스타",
+      "english": "Avistar",
+      "company": "ELYSION",
+      "isVariant": false,
+      "aliases": [
+        "아비스타(엘리시온)",
+        "아비스타(ELYSION)",
+        "Avistar(엘리시온)",
+        "Avistar(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/lz-86/km-21/58b75af1692e868b117ffa876a0ece43.webp"
+    },
+    {
+      "id": 235101,
+      "name": "앵커",
+      "label": "앵커",
+      "english": "Anchor",
+      "company": "ELYSION",
+      "isVariant": false,
+      "aliases": [
+        "앵커(엘리시온)",
+        "앵커(ELYSION)",
+        "Anchor(엘리시온)",
+        "Anchor(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/pu-66/wo-40/b6b57b79ef36e06939705002fd672a44.webp"
+    },
+    {
+      "id": 235501,
+      "name": "앵커 : 이노센트 메이드",
+      "label": "앵커 : 이노센트 메이드",
+      "english": "Anchor: Innocent Maid",
+      "company": "ELYSION",
+      "isVariant": true,
+      "aliases": [
+        "앵커 : 이노센트 메이드(엘리시온)",
+        "앵커 : 이노센트 메이드(ELYSION)",
+        "Anchor: Innocent Maid(엘리시온)",
+        "Anchor: Innocent Maid(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/or-38/mw-05/d79376caa8148ed88ae6daea0c3c8146.webp"
+    },
+    {
+      "id": 209001,
+      "name": "엠마",
+      "label": "엠마",
+      "english": "Emma",
+      "company": "ELYSION",
+      "isVariant": false,
+      "aliases": [
+        "엠마(엘리시온)",
+        "엠마(ELYSION)",
+        "Emma(엘리시온)",
+        "Emma(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/uv-65/zp-54/25d04f8ffc40b3cee148e993c4dcce6e.webp"
+    },
+    {
+      "id": 209301,
+      "name": "엠마 : 택티컬 업",
+      "label": "엠마 : 택티컬 업",
+      "english": "Emma: Tactical Upgrade",
+      "company": "ELYSION",
+      "isVariant": true,
+      "aliases": [
+        "엠마 : 택티컬 업(엘리시온)",
+        "엠마 : 택티컬 업(ELYSION)",
+        "Emma: Tactical Upgrade(엘리시온)",
+        "Emma: Tactical Upgrade(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/fj-33/aa-14/026cc69b87453686a95c7fae2796dd7f.webp"
+    },
+    {
+      "id": 209201,
+      "name": "은화",
+      "label": "은화",
+      "english": "Eunhwa",
+      "company": "ELYSION",
+      "isVariant": false,
+      "aliases": [
+        "은화(엘리시온)",
+        "은화(ELYSION)",
+        "Eunhwa(엘리시온)",
+        "Eunhwa(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/ad-05/ut-86/40c1882ed7af26e1623ae2cd90170a26.webp"
+    },
+    {
+      "id": 209501,
+      "name": "은화 : 택티컬 업",
+      "label": "은화 : 택티컬 업",
+      "english": "Eunhwa: Tactical Upgrade",
+      "company": "ELYSION",
+      "isVariant": true,
+      "aliases": [
+        "은화 : 택티컬 업(엘리시온)",
+        "은화 : 택티컬 업(ELYSION)",
+        "Eunhwa: Tactical Upgrade(엘리시온)",
+        "Eunhwa: Tactical Upgrade(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/yy-65/ve-46/634d5cd7414565af77d70eec5d57e9f8.webp"
+    },
+    {
+      "id": 239001,
+      "name": "츠바이",
+      "label": "츠바이",
+      "english": "Zwei",
+      "company": "ELYSION",
+      "isVariant": false,
+      "aliases": [
+        "츠바이(엘리시온)",
+        "츠바이(ELYSION)",
+        "Zwei(엘리시온)",
+        "Zwei(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/ga-35/fc-17/46f4ce5a484ae76c99a7d1d8b268c518.webp"
+    },
+    {
+      "id": 203301,
+      "name": "키리",
+      "label": "키리",
+      "english": "Quiry",
+      "company": "ELYSION",
+      "isVariant": false,
+      "aliases": [
+        "키리(엘리시온)",
+        "키리(ELYSION)",
+        "Quiry(엘리시온)",
+        "Quiry(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/am-53/jy-95/1f5c00eb307f6f57ce252d5905a20b22.webp"
+    },
+    {
+      "id": 258001,
+      "name": "팬텀",
+      "label": "팬텀",
+      "english": "Phantom",
+      "company": "ELYSION",
+      "isVariant": false,
+      "aliases": [
+        "팬텀(엘리시온)",
+        "팬텀(ELYSION)",
+        "Phantom(엘리시온)",
+        "Phantom(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/zw-94/uk-84/895f63fea88f4f6e6a248ef7007286bf.webp"
+    },
+    {
+      "id": 203001,
+      "name": "폴리",
+      "label": "폴리",
+      "english": "Poli",
+      "company": "ELYSION",
+      "isVariant": false,
+      "aliases": [
+        "폴리(엘리시온)",
+        "폴리(ELYSION)",
+        "Poli(엘리시온)",
+        "Poli(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/py-85/jn-36/2e1ca2791472c8dd9a3109f716b704b2.webp"
+    },
+    {
+      "id": 217001,
+      "name": "프리바티",
+      "label": "프리바티",
+      "english": "Privaty",
+      "company": "ELYSION",
+      "isVariant": false,
+      "aliases": [
+        "프리바티(엘리시온)",
+        "프리바티(ELYSION)",
+        "Privaty(엘리시온)",
+        "Privaty(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/se-97/pl-51/b901c8f631bb2bfc2f59022ab3c785ce.webp"
+    },
+    {
+      "id": 231301,
+      "name": "프리바티 : 언카인드 메이드",
+      "label": "프리바티 : 언카인드 메이드",
+      "english": "Privaty: Unkind Maid",
+      "company": "ELYSION",
+      "isVariant": true,
+      "aliases": [
+        "프리바티 : 언카인드 메이드(엘리시온)",
+        "프리바티 : 언카인드 메이드(ELYSION)",
+        "Privaty: Unkind Maid(엘리시온)",
+        "Privaty: Unkind Maid(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/zq-09/dx-68/f7fbdbf68251d8464c7d5c171ff23d9e.webp"
+    },
+    {
+      "id": 235201,
+      "name": "헬름",
+      "label": "헬름",
+      "english": "Helm",
+      "company": "ELYSION",
+      "isVariant": false,
+      "aliases": [
+        "헬름(엘리시온)",
+        "헬름(ELYSION)",
+        "Helm(엘리시온)",
+        "Helm(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/va-94/bv-67/b6bd2f152e9a7e05b72e65323e039063.webp"
+    },
+    {
+      "id": 235301,
+      "name": "헬름 : 아쿠아마린",
+      "label": "헬름 : 아쿠아마린",
+      "english": "Helm: Aquamarine",
+      "company": "ELYSION",
+      "isVariant": true,
+      "aliases": [
+        "헬름 : 아쿠아마린(엘리시온)",
+        "헬름 : 아쿠아마린(ELYSION)",
+        "Helm: Aquamarine(엘리시온)",
+        "Helm: Aquamarine(ELYSION)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/jj-98/rs-72/e9a7c3d1ab9791731978c1cdc8a4fdff.webp"
+    },
+    {
+      "id": 112001,
+      "name": "N102",
+      "label": "N102",
+      "english": "N102",
+      "company": "MISSILIS",
+      "isVariant": false,
+      "aliases": [
+        "N102(미실리스)",
+        "N102(MISSILIS)",
+        "N102(미실리스)",
+        "N102(MISSILIS)",
+        "앤"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/md-06/xl-17/a245334be93ef6aeb5afde0e9cd46fb1.webp"
+    },
+    {
+      "id": 140001,
+      "name": "길티",
+      "label": "길티",
+      "english": "Guilty",
+      "company": "MISSILIS",
+      "isVariant": false,
+      "aliases": [
+        "길티(미실리스)",
+        "길티(MISSILIS)",
+        "Guilty(미실리스)",
+        "Guilty(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/ce-85/ar-65/170c0a102305b5f9a292e2599d6ba702.webp"
+    },
+    {
+      "id": 140401,
+      "name": "길티 : 마이티 바니",
+      "label": "길티 : 마이티 바니",
+      "english": "Guilty: Mighty Bunny",
+      "company": "MISSILIS",
+      "isVariant": true,
+      "aliases": [
+        "길티 : 마이티 바니(미실리스)",
+        "길티 : 마이티 바니(MISSILIS)",
+        "Guilty: Mighty Bunny(미실리스)",
+        "Guilty: Mighty Bunny(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/bb-57/xc-76/bd5e50c4df921c542bb29abf140dee38.webp"
+    },
+    {
+      "id": 145001,
+      "name": "나가",
+      "label": "나가",
+      "english": "Naga",
+      "company": "MISSILIS",
+      "isVariant": false,
+      "aliases": [
+        "나가(미실리스)",
+        "나가(MISSILIS)",
+        "Naga(미실리스)",
+        "Naga(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/if-77/sr-00/755dcf2aea00e99952a84bc6b9771f8a.webp"
+    },
+    {
+      "id": 101801,
+      "name": "네온 : 비전 아이",
+      "label": "네온 : 비전 아이",
+      "english": "Neon: Vision Eye",
+      "company": "MISSILIS",
+      "isVariant": true,
+      "aliases": [
+        "네온 : 비전 아이(미실리스)",
+        "네온 : 비전 아이(MISSILIS)",
+        "Neon: Vision Eye(미실리스)",
+        "Neon: Vision Eye(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/so-39/tz-97/70fb299487aa9bb61a844a4b68e96d89.webp"
+    },
+    {
+      "id": 110101,
+      "name": "드레이크",
+      "label": "드레이크",
+      "english": "Drake",
+      "company": "MISSILIS",
+      "isVariant": false,
+      "aliases": [
+        "드레이크(미실리스)",
+        "드레이크(MISSILIS)",
+        "Drake(미실리스)",
+        "Drake(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/rb-27/lb-08/48e2d0b41848d524f651eee9e81b44da.webp"
+    },
+    {
+      "id": 110401,
+      "name": "드레이크 : 그레이트 빌런",
+      "label": "드레이크 : 그레이트 빌런",
+      "english": "Drake: Great Villain",
+      "company": "MISSILIS",
+      "isVariant": true,
+      "aliases": [
+        "드레이크 : 그레이트 빌런(미실리스)",
+        "드레이크 : 그레이트 빌런(MISSILIS)",
+        "Drake: Great Villain(미실리스)",
+        "Drake: Great Villain(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/bp-94/rp-14/66ea01789217fa23e288c6235dd29e28.webp"
+    },
+    {
+      "id": 110001,
+      "name": "라플라스",
+      "label": "라플라스",
+      "english": "Laplace",
+      "company": "MISSILIS",
+      "isVariant": false,
+      "aliases": [
+        "라플라스(미실리스)",
+        "라플라스(MISSILIS)",
+        "Laplace(미실리스)",
+        "Laplace(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/cs-23/ve-03/8dec662c020f93bc1ed3b8c7ead22f8d.webp"
+    },
+    {
+      "id": 110301,
+      "name": "라플라스 : 얼티밋 히어로",
+      "label": "라플라스 : 얼티밋 히어로",
+      "english": "Laplace: Ultimate Hero",
+      "company": "MISSILIS",
+      "isVariant": true,
+      "aliases": [
+        "라플라스 : 얼티밋 히어로(미실리스)",
+        "라플라스 : 얼티밋 히어로(MISSILIS)",
+        "Laplace: Ultimate Hero(미실리스)",
+        "Laplace: Ultimate Hero(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/kq-59/bs-09/01d638b947a3b7aba4ef61342940cb92.webp"
+    },
+    {
+      "id": 108201,
+      "name": "리타",
+      "label": "리타",
+      "english": "Liter",
+      "company": "MISSILIS",
+      "isVariant": false,
+      "aliases": [
+        "리타(미실리스)",
+        "리타(MISSILIS)",
+        "Liter(미실리스)",
+        "Liter(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/po-10/wr-03/430fe2319b54b1569064001be1a93641.webp"
+    },
+    {
+      "id": 129001,
+      "name": "마나",
+      "label": "마나",
+      "english": "Mana",
+      "company": "MISSILIS",
+      "isVariant": false,
+      "aliases": [
+        "마나(미실리스)",
+        "마나(MISSILIS)",
+        "Mana(미실리스)",
+        "Mana(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/zg-20/tc-52/51b33eff74c04ceea8a13743c44d360b.webp"
+    },
+    {
+      "id": 110201,
+      "name": "맥스웰",
+      "label": "맥스웰",
+      "english": "Maxwell",
+      "company": "MISSILIS",
+      "isVariant": false,
+      "aliases": [
+        "맥스웰(미실리스)",
+        "맥스웰(MISSILIS)",
+        "Maxwell(미실리스)",
+        "Maxwell(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/wh-55/wl-81/a5c70b677371c1769e79a9bf47232734.webp"
+    },
+    {
+      "id": 110501,
+      "name": "맥스웰 : 오디너리 미케닉",
+      "label": "맥스웰 : 오디너리 미케닉",
+      "english": "Maxwell: Ordinary Mechanic",
+      "company": "MISSILIS",
+      "isVariant": true,
+      "aliases": [
+        "맥스웰 : 오디너리 미케닉(미실리스)",
+        "맥스웰 : 오디너리 미케닉(MISSILIS)",
+        "Maxwell: Ordinary Mechanic(미실리스)",
+        "Maxwell: Ordinary Mechanic(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/gv-23/ww-41/45f3f8170f2ef393cc130055b8119f78.webp"
+    },
+    {
+      "id": 159001,
+      "name": "모리",
+      "label": "모리",
+      "english": "Mori",
+      "company": "MISSILIS",
+      "isVariant": false,
+      "aliases": [
+        "모리(미실리스)",
+        "모리(MISSILIS)",
+        "Mori(미실리스)",
+        "Mori(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/ys-82/sm-68/cb53be33cd7cc1f979a2a7ca1f2d043c.webp"
+    },
+    {
+      "id": 116101,
+      "name": "미하라",
+      "label": "미하라",
+      "english": "Mihara",
+      "company": "MISSILIS",
+      "isVariant": false,
+      "aliases": [
+        "미하라(미실리스)",
+        "미하라(MISSILIS)",
+        "Mihara(미실리스)",
+        "Mihara(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/mv-31/wq-94/b20070d555e20f73ccff4bfa4da33b53.webp"
+    },
+    {
+      "id": 116201,
+      "name": "미하라 : 본딩 체인",
+      "label": "미하라 : 본딩 체인",
+      "english": "Mihara: Bonding Chain",
+      "company": "MISSILIS",
+      "isVariant": true,
+      "aliases": [
+        "미하라 : 본딩 체인(미실리스)",
+        "미하라 : 본딩 체인(MISSILIS)",
+        "Mihara: Bonding Chain(미실리스)",
+        "Mihara: Bonding Chain(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/be-35/mn-00/ec51dcc7846a88299df91a31ac5c41c2.webp"
+    },
+    {
+      "id": 162001,
+      "name": "백학",
+      "label": "백학",
+      "english": "Snow Crane",
+      "company": "MISSILIS",
+      "isVariant": false,
+      "aliases": [
+        "백학(미실리스)",
+        "백학(MISSILIS)",
+        "Snow Crane(미실리스)",
+        "Snow Crane(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/qa-23/wl-77/268a0bc90310655035f134c253ef98b2.webp"
+    },
+    {
+      "id": 108001,
+      "name": "센티",
+      "label": "센티",
+      "english": "Centi",
+      "company": "MISSILIS",
+      "isVariant": false,
+      "aliases": [
+        "센티(미실리스)",
+        "센티(MISSILIS)",
+        "Centi(미실리스)",
+        "Centi(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/vz-77/bn-70/f66c08b26047347b46420a769de04837.webp"
+    },
+    {
+      "id": 140101,
+      "name": "신",
+      "label": "신",
+      "english": "Sin",
+      "company": "MISSILIS",
+      "isVariant": false,
+      "aliases": [
+        "신(미실리스)",
+        "신(MISSILIS)",
+        "Sin(미실리스)",
+        "Sin(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/qn-89/qo-70/2fdf7ae0e0a384c7e84386a0ba6364cb.webp"
+    },
+    {
+      "id": 140501,
+      "name": "신 : 스위프트 바니",
+      "label": "신 : 스위프트 바니",
+      "english": "Sin: Swift Bunny",
+      "company": "MISSILIS",
+      "isVariant": true,
+      "aliases": [
+        "신 : 스위프트 바니(미실리스)",
+        "신 : 스위프트 바니(MISSILIS)",
+        "Sin: Swift Bunny(미실리스)",
+        "Sin: Swift Bunny(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/pk-61/mz-81/fdf46570eb4df5d306fb9f1d4bdfd8a2.webp"
+    },
+    {
+      "id": 139101,
+      "name": "아인",
+      "label": "아인",
+      "english": "Ein",
+      "company": "MISSILIS",
+      "isVariant": false,
+      "aliases": [
+        "아인(미실리스)",
+        "아인(MISSILIS)",
+        "Ein(미실리스)",
+        "Ein(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/lg-63/kj-44/f0c089e8bb85053339d41b2720f0a900.webp"
+    },
+    {
+      "id": 117201,
+      "name": "애드미",
+      "label": "애드미",
+      "english": "Admi",
+      "company": "MISSILIS",
+      "isVariant": false,
+      "aliases": [
+        "애드미(미실리스)",
+        "애드미(MISSILIS)",
+        "Admi(미실리스)",
+        "Admi(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/lt-30/kp-83/9d4ceef56ffabba0e3469fb5fcb18414.webp"
+    },
+    {
+      "id": 112101,
+      "name": "앤 : 미라클 페어리",
+      "label": "앤 : 미라클 페어리",
+      "english": "Anne: Miracle Fairy",
+      "company": "MISSILIS",
+      "isVariant": true,
+      "aliases": [
+        "앤 : 미라클 페어리(미실리스)",
+        "앤 : 미라클 페어리(MISSILIS)",
+        "Anne: Miracle Fairy(미실리스)",
+        "Anne: Miracle Fairy(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/rj-34/cs-44/6bc26f548dca5048571e8457a2202555.webp"
+    },
+    {
+      "id": 129101,
+      "name": "에테르",
+      "label": "에테르",
+      "english": "Ether",
+      "company": "MISSILIS",
+      "isVariant": false,
+      "aliases": [
+        "에테르(미실리스)",
+        "에테르(MISSILIS)",
+        "Ether(미실리스)",
+        "Ether(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/np-24/yj-79/9e88c446fbc6ab403b3e14dbfa159015.webp"
+    },
+    {
+      "id": 324101,
+      "name": "에피넬",
+      "label": "에피넬",
+      "english": "Epinel",
+      "company": "MISSILIS",
+      "isVariant": false,
+      "aliases": [
+        "에피넬(미실리스)",
+        "에피넬(MISSILIS)",
+        "Epinel(미실리스)",
+        "Epinel(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/ke-63/gj-45/898472d4a2f6e8d729f69908a44efa29.webp"
+    },
+    {
+      "id": 116001,
+      "name": "유니",
+      "label": "유니",
+      "english": "Yuni",
+      "company": "MISSILIS",
+      "isVariant": false,
+      "aliases": [
+        "유니(미실리스)",
+        "유니(MISSILIS)",
+        "Yuni(미실리스)",
+        "Yuni(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/hp-03/lg-21/b3d5222931553dd92553b2cdbc0970c1.webp"
+    },
+    {
+      "id": 115001,
+      "name": "율리아",
+      "label": "율리아",
+      "english": "Julia",
+      "company": "MISSILIS",
+      "isVariant": false,
+      "aliases": [
+        "율리아(미실리스)",
+        "율리아(MISSILIS)",
+        "Julia(미실리스)",
+        "Julia(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/xa-08/ne-37/6de32e492ff90a95075ec82e9b350fed.webp"
+    },
+    {
+      "id": 150001,
+      "name": "일레그",
+      "label": "일레그",
+      "english": "Elegg",
+      "company": "MISSILIS",
+      "isVariant": false,
+      "aliases": [
+        "일레그(미실리스)",
+        "일레그(MISSILIS)",
+        "Elegg(미실리스)",
+        "Elegg(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/iy-01/su-76/37f230e17431d0c17a7d07bbc67369b3.webp"
+    },
+    {
+      "id": 150201,
+      "name": "일레그 : 붐 앤 쇼크",
+      "label": "일레그 : 붐 앤 쇼크",
+      "english": "Elegg: Boom and Shock",
+      "company": "MISSILIS",
+      "isVariant": true,
+      "aliases": [
+        "일레그 : 붐 앤 쇼크(미실리스)",
+        "일레그 : 붐 앤 쇼크(MISSILIS)",
+        "Elegg: Boom and Shock(미실리스)",
+        "Elegg: Boom and Shock(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/cn-33/ny-09/7834f83cc5e968ef22c7d96d3ff9e5a7.webp"
+    },
+    {
+      "id": 111101,
+      "name": "자칼",
+      "label": "자칼",
+      "english": "Jackal",
+      "company": "MISSILIS",
+      "isVariant": false,
+      "aliases": [
+        "자칼(미실리스)",
+        "자칼(MISSILIS)",
+        "Jackal(미실리스)",
+        "Jackal(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/sn-46/eq-60/be4274244978959e8596a8babc23e044.webp"
+    },
+    {
+      "id": 140201,
+      "name": "퀀시",
+      "label": "퀀시",
+      "english": "Quency",
+      "company": "MISSILIS",
+      "isVariant": false,
+      "aliases": [
+        "퀀시(미실리스)",
+        "퀀시(MISSILIS)",
+        "Quency(미실리스)",
+        "Quency(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/vt-18/by-44/20ff32d808227dace8c756de85b6096e.webp"
+    },
+    {
+      "id": 140301,
+      "name": "퀀시 : 이스케이프 퀸",
+      "label": "퀀시 : 이스케이프 퀸",
+      "english": "Quency: Escape Queen",
+      "company": "MISSILIS",
+      "isVariant": true,
+      "aliases": [
+        "퀀시 : 이스케이프 퀸(미실리스)",
+        "퀀시 : 이스케이프 퀸(MISSILIS)",
+        "Quency: Escape Queen(미실리스)",
+        "Quency: Escape Queen(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/vv-29/rv-49/68728960c4e3a4d9e8c9ee0e19ec6398.webp"
+    },
+    {
+      "id": 111001,
+      "name": "크로우",
+      "label": "크로우",
+      "english": "Crow",
+      "company": "MISSILIS",
+      "isVariant": false,
+      "aliases": [
+        "크로우(미실리스)",
+        "크로우(MISSILIS)",
+        "Crow(미실리스)",
+        "Crow(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/bo-11/zj-33/bbea99b61565c9c77f146aca6d80d354.webp"
+    },
+    {
+      "id": 136101,
+      "name": "킬로",
+      "label": "킬로",
+      "english": "Kilo",
+      "company": "MISSILIS",
+      "isVariant": false,
+      "aliases": [
+        "킬로(미실리스)",
+        "킬로(MISSILIS)",
+        "Kilo(미실리스)",
+        "Kilo(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/aj-61/uq-24/a29ed3443230f12dc7f236e854e6c1c8.webp"
+    },
+    {
+      "id": 119201,
+      "name": "토브",
+      "label": "토브",
+      "english": "Tove",
+      "company": "MISSILIS",
+      "isVariant": false,
+      "aliases": [
+        "토브(미실리스)",
+        "토브(MISSILIS)",
+        "Tove(미실리스)",
+        "Tove(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/xu-44/cg-20/971525e4870d57187a646e92b31ee993.webp"
+    },
+    {
+      "id": 150101,
+      "name": "트로니",
+      "label": "트로니",
+      "english": "Trony",
+      "company": "MISSILIS",
+      "isVariant": false,
+      "aliases": [
+        "트로니(미실리스)",
+        "트로니(MISSILIS)",
+        "Trony(미실리스)",
+        "Trony(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/oe-29/yb-04/9b6e15d798cb4b58c2fdd7277415cd4c.webp"
+    },
+    {
+      "id": 141201,
+      "name": "트리나",
+      "label": "트리나",
+      "english": "Trina",
+      "company": "MISSILIS",
+      "isVariant": false,
+      "aliases": [
+        "트리나(미실리스)",
+        "트리나(MISSILIS)",
+        "Trina(미실리스)",
+        "Trina(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/gi-13/aa-28/af22d6d7756efe69915373651b429e11.webp"
+    },
+    {
+      "id": 145101,
+      "name": "티아",
+      "label": "티아",
+      "english": "Tia",
+      "company": "MISSILIS",
+      "isVariant": false,
+      "aliases": [
+        "티아(미실리스)",
+        "티아(MISSILIS)",
+        "Tia(미실리스)",
+        "Tia(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/wo-81/io-05/5f04f96984b134bd885b3b473a0efb5f.webp"
+    },
+    {
+      "id": 113101,
+      "name": "페퍼",
+      "label": "페퍼",
+      "english": "Pepper",
+      "company": "MISSILIS",
+      "isVariant": false,
+      "aliases": [
+        "페퍼(미실리스)",
+        "페퍼(MISSILIS)",
+        "Pepper(미실리스)",
+        "Pepper(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/by-29/au-28/6b4927f89c06bbfbfb5055fe79d63ace.webp"
+    },
+    {
+      "id": 130201,
+      "name": "프로덕트 08",
+      "label": "프로덕트 08",
+      "english": "Product 08",
+      "company": "MISSILIS",
+      "isVariant": false,
+      "aliases": [
+        "프로덕트 08(미실리스)",
+        "프로덕트 08(MISSILIS)",
+        "Product 08(미실리스)",
+        "Product 08(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/as-10/jv-33/c82718919f893a304fab61576f780fd9.webp"
+    },
+    {
+      "id": 130301,
+      "name": "프로덕트 12",
+      "label": "프로덕트 12",
+      "english": "Product 12",
+      "company": "MISSILIS",
+      "isVariant": false,
+      "aliases": [
+        "프로덕트 12(미실리스)",
+        "프로덕트 12(MISSILIS)",
+        "Product 12(미실리스)",
+        "Product 12(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/pb-14/zs-38/bef1374ef6f75307a2bbbc10c4735e6d.webp"
+    },
+    {
+      "id": 130701,
+      "name": "프로덕트 23",
+      "label": "프로덕트 23",
+      "english": "Product 23",
+      "company": "MISSILIS",
+      "isVariant": false,
+      "aliases": [
+        "프로덕트 23(미실리스)",
+        "프로덕트 23(MISSILIS)",
+        "Product 23(미실리스)",
+        "Product 23(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/ny-85/wd-49/3202f6da10471ce49c8d327b426a09c7.webp"
+    },
+    {
+      "id": 141101,
+      "name": "플로라",
+      "label": "플로라",
+      "english": "Flora",
+      "company": "MISSILIS",
+      "isVariant": false,
+      "aliases": [
+        "플로라(미실리스)",
+        "플로라(MISSILIS)",
+        "Flora(미실리스)",
+        "Flora(MISSILIS)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/rz-09/kd-23/becc4bf55ffa66874b39c62a3a2b9771.webp"
+    },
+    {
+      "id": 330801,
+      "name": "iDoll 썬",
+      "label": "iDoll 썬",
+      "english": "iDoll Sun",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "iDoll 썬(테트라)",
+        "iDoll 썬(TETRA)",
+        "iDoll Sun(테트라)",
+        "iDoll Sun(TETRA)",
+        "아이돌 썬"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/te-14/bk-76/3ea9123882be130c7bfd4ea1524bd645.webp"
+    },
+    {
+      "id": 330501,
+      "name": "iDoll 오션",
+      "label": "iDoll 오션",
+      "english": "iDoll Ocean",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "iDoll 오션(테트라)",
+        "iDoll 오션(TETRA)",
+        "iDoll Ocean(테트라)",
+        "iDoll Ocean(TETRA)",
+        "아이돌 오션"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/iq-46/az-17/a582218e40e3d4f754688ee6f61e5c28.webp"
+    },
+    {
+      "id": 330401,
+      "name": "iDoll 플라워",
+      "label": "iDoll 플라워",
+      "english": "iDoll Flower",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "iDoll 플라워(테트라)",
+        "iDoll 플라워(TETRA)",
+        "iDoll Flower(테트라)",
+        "iDoll Flower(TETRA)",
+        "아이돌 플라워"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/uh-42/lc-12/19cef1da48c6d59394592ad7c4837bb3.webp"
+    },
+    {
+      "id": 338001,
+      "name": "네로",
+      "label": "네로",
+      "english": "Nero",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "네로(테트라)",
+        "네로(TETRA)",
+        "Nero(테트라)",
+        "Nero(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/vl-40/ha-33/9fbbec4a75195062b97900bb07ffd9df.webp"
+    },
+    {
+      "id": 319301,
+      "name": "네베",
+      "label": "네베",
+      "english": "Neve",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "네베(테트라)",
+        "네베(TETRA)",
+        "Neve(테트라)",
+        "Neve(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/md-48/sd-25/b305c9953c964f8761cee8a736a425b4.webp"
+    },
+    {
+      "id": 321201,
+      "name": "노벨",
+      "label": "노벨",
+      "english": "Novel",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "노벨(테트라)",
+        "노벨(TETRA)",
+        "Novel(테트라)",
+        "Novel(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/nq-65/gn-30/30e5c7aff5e85ae4a8ddc8c3601eb88e.webp"
+    },
+    {
+      "id": 343001,
+      "name": "노이즈",
+      "label": "노이즈",
+      "english": "Noise",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "노이즈(테트라)",
+        "노이즈(TETRA)",
+        "Noise(테트라)",
+        "Noise(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/we-63/ba-63/b1a57e981b57f124ccd51646f15be164.webp"
+    },
+    {
+      "id": 327101,
+      "name": "누아르",
+      "label": "누아르",
+      "english": "Noir",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "누아르(테트라)",
+        "누아르(TETRA)",
+        "Noir(테트라)",
+        "Noir(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/ee-41/gs-43/b6c6f46752e61434f7bcbed790db025b.webp"
+    },
+    {
+      "id": 320201,
+      "name": "도라",
+      "label": "도라",
+      "english": "Dolla",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "도라(테트라)",
+        "도라(TETRA)",
+        "Dolla(테트라)",
+        "Dolla(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/db-70/il-46/64a8d9fdfb64325afbf67d1e30373bd7.webp"
+    },
+    {
+      "id": 339201,
+      "name": "라이",
+      "label": "라이",
+      "english": "Rei",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "라이(테트라)",
+        "라이(TETRA)",
+        "Rei(테트라)",
+        "Rei(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/zp-67/ag-49/78e29ec0dc4dc0b4a4baa2a01d875c3e.webp"
+    },
+    {
+      "id": 338201,
+      "name": "레오나",
+      "label": "레오나",
+      "english": "Leona",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "레오나(테트라)",
+        "레오나(TETRA)",
+        "Leona(테트라)",
+        "Leona(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/pa-72/ce-65/1675c806cc8f0bb7244a0d19b136d7e5.webp"
+    },
+    {
+      "id": 228001,
+      "name": "로산나",
+      "label": "로산나",
+      "english": "Rosanna",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "로산나(테트라)",
+        "로산나(TETRA)",
+        "Rosanna(테트라)",
+        "Rosanna(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/or-25/ox-22/b24c71eb0f4824d4c7aefb379d4067e4.webp"
+    },
+    {
+      "id": 328301,
+      "name": "로산나 : 시크 오션",
+      "label": "로산나 : 시크 오션",
+      "english": "Rosanna: Chic Ocean",
+      "company": "TETRA",
+      "isVariant": true,
+      "aliases": [
+        "로산나 : 시크 오션(테트라)",
+        "로산나 : 시크 오션(TETRA)",
+        "Rosanna: Chic Ocean(테트라)",
+        "Rosanna: Chic Ocean(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/ii-68/zy-59/46550f6fe0747bcbaf1b40fbf92fcd7e.webp"
+    },
+    {
+      "id": 319001,
+      "name": "루드밀라",
+      "label": "루드밀라",
+      "english": "Ludmilla",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "루드밀라(테트라)",
+        "루드밀라(TETRA)",
+        "Ludmilla(테트라)",
+        "Ludmilla(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/sm-05/az-41/ebd75daa73b72b386036b713f2598a3c.webp"
+    },
+    {
+      "id": 319401,
+      "name": "루드밀라 : 윈터 오너",
+      "label": "루드밀라 : 윈터 오너",
+      "english": "Ludmilla: Winter Owner",
+      "company": "TETRA",
+      "isVariant": true,
+      "aliases": [
+        "루드밀라 : 윈터 오너(테트라)",
+        "루드밀라 : 윈터 오너(TETRA)",
+        "Ludmilla: Winter Owner(테트라)",
+        "Ludmilla: Winter Owner(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/rj-76/xk-52/8503f8fcdf40b4c8051ff93f064ce511.webp"
+    },
+    {
+      "id": 324001,
+      "name": "루마니",
+      "label": "루마니",
+      "english": "Rumani",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "루마니(테트라)",
+        "루마니(TETRA)",
+        "Rumani(테트라)",
+        "Rumani(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/tf-28/bc-18/9d174d6412a2d7f22bb51b3204e3f3f4.webp"
+    },
+    {
+      "id": 327201,
+      "name": "루주",
+      "label": "루주",
+      "english": "Rouge",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "루주(테트라)",
+        "루주(TETRA)",
+        "Rouge(테트라)",
+        "Rouge(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/jk-69/lz-70/8ce431b15458c35f7382e7d7d9d213b7.webp"
+    },
+    {
+      "id": 320001,
+      "name": "루피",
+      "label": "루피",
+      "english": "Rupee",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "루피(테트라)",
+        "루피(TETRA)",
+        "Rupee(테트라)",
+        "Rupee(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/xt-31/nh-14/dc00138f7a4ea67c6e202155aca3441d.webp"
+    },
+    {
+      "id": 320301,
+      "name": "루피 : 윈터 쇼퍼",
+      "label": "루피 : 윈터 쇼퍼",
+      "english": "Rupee: Winter Shopper",
+      "company": "TETRA",
+      "isVariant": true,
+      "aliases": [
+        "루피 : 윈터 쇼퍼(테트라)",
+        "루피 : 윈터 쇼퍼(TETRA)",
+        "Rupee: Winter Shopper(테트라)",
+        "Rupee: Winter Shopper(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/ih-98/ns-73/f4f5cc42403e89ce1b967f354674c4bb.webp"
+    },
+    {
+      "id": 313001,
+      "name": "메어리",
+      "label": "메어리",
+      "english": "Mary",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "메어리(테트라)",
+        "메어리(TETRA)",
+        "Mary(테트라)",
+        "Mary(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/np-25/ra-69/9bf3d2d8cf18479d4d98f1370d90bcf1.webp"
+    },
+    {
+      "id": 313201,
+      "name": "메어리 : 베이 갓데스",
+      "label": "메어리 : 베이 갓데스",
+      "english": "Mary: Bay Goddess",
+      "company": "TETRA",
+      "isVariant": true,
+      "aliases": [
+        "메어리 : 베이 갓데스(테트라)",
+        "메어리 : 베이 갓데스(TETRA)",
+        "Mary: Bay Goddess(테트라)",
+        "Mary: Bay Goddess(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/he-57/me-02/4df5ddeb01a3a24cd8a251f3b47222c8.webp"
+    },
+    {
+      "id": 328101,
+      "name": "목단",
+      "label": "목단",
+      "english": "Moran",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "목단(테트라)",
+        "목단(TETRA)",
+        "Moran(테트라)",
+        "Moran(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/da-29/eu-27/4d82ca28d037c4aefecea57f554654aa.webp"
+    },
+    {
+      "id": 306101,
+      "name": "미카",
+      "label": "미카",
+      "english": "Mica",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "미카(테트라)",
+        "미카(TETRA)",
+        "Mica(테트라)",
+        "Mica(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/pe-91/pd-61/29099e5790a79002eb8feeea3170fe36.webp"
+    },
+    {
+      "id": 306201,
+      "name": "미카 : 스노우 버디",
+      "label": "미카 : 스노우 버디",
+      "english": "Mica: Snow Buddy",
+      "company": "TETRA",
+      "isVariant": true,
+      "aliases": [
+        "미카 : 스노우 버디(테트라)",
+        "미카 : 스노우 버디(TETRA)",
+        "Mica: Snow Buddy(테트라)",
+        "Mica: Snow Buddy(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/gd-27/uk-88/17e1e7994a98fa31e7aa380526d2051f.webp"
+    },
+    {
+      "id": 360001,
+      "name": "민트",
+      "label": "민트",
+      "english": "Mint",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "민트(테트라)",
+        "민트(TETRA)",
+        "Mint(테트라)",
+        "Mint(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/dz-09/ue-63/31caa32129469999a8c011eba7fc1bac.webp"
+    },
+    {
+      "id": 314101,
+      "name": "밀크",
+      "label": "밀크",
+      "english": "Milk",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "밀크(테트라)",
+        "밀크(TETRA)",
+        "Milk(테트라)",
+        "Milk(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/mn-24/ez-58/a9472edc3aa3bfab46898c208d0b8f26.webp"
+    },
+    {
+      "id": 314301,
+      "name": "밀크 : 블루밍 바니",
+      "label": "밀크 : 블루밍 바니",
+      "english": "Milk: Blooming Bunny",
+      "company": "TETRA",
+      "isVariant": true,
+      "aliases": [
+        "밀크 : 블루밍 바니(테트라)",
+        "밀크 : 블루밍 바니(TETRA)",
+        "Milk: Blooming Bunny(테트라)",
+        "Milk: Blooming Bunny(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/gc-56/ad-90/ff44690f97cd69303f35e110c88858d5.webp"
+    },
+    {
+      "id": 311201,
+      "name": "바이퍼",
+      "label": "바이퍼",
+      "english": "Viper",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "바이퍼(테트라)",
+        "바이퍼(TETRA)",
+        "Viper(테트라)",
+        "Viper(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/gw-50/un-65/197f8fba001f911b5fe69f5473e909ab.webp"
+    },
+    {
+      "id": 355001,
+      "name": "베이",
+      "label": "베이",
+      "english": "Bay",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "베이(테트라)",
+        "베이(TETRA)",
+        "Bay(테트라)",
+        "Bay(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/dg-85/er-64/f2342f4e5fa1d04157b5630e8267611a.webp"
+    },
+    {
+      "id": 306001,
+      "name": "벨로타",
+      "label": "벨로타",
+      "english": "Belorta",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "벨로타(테트라)",
+        "벨로타(TETRA)",
+        "Belorta(테트라)",
+        "Belorta(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/av-87/zg-56/c7c102300d1cb6a9640cc97a9a095b38.webp"
+    },
+    {
+      "id": 306301,
+      "name": "벨로타 : 펌킨 위치",
+      "label": "벨로타 : 펌킨 위치",
+      "english": "Belorta: Pumpkin Witch",
+      "company": "TETRA",
+      "isVariant": true,
+      "aliases": [
+        "벨로타 : 펌킨 위치(테트라)",
+        "벨로타 : 펌킨 위치(TETRA)",
+        "Belorta: Pumpkin Witch(테트라)",
+        "Belorta: Pumpkin Witch(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/um-31/kh-93/41db1f3d95047751256a1d3bbea7bd6f.webp"
+    },
+    {
+      "id": 331601,
+      "name": "벨벳",
+      "label": "벨벳",
+      "english": "Velvet",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "벨벳(테트라)",
+        "벨벳(TETRA)",
+        "Velvet(테트라)",
+        "Velvet(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/yl-69/ei-28/03d1fd97b534b7adbcc378694be6e25e.webp"
+    },
+    {
+      "id": 343101,
+      "name": "볼륨",
+      "label": "볼륨",
+      "english": "Volume",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "볼륨(테트라)",
+        "볼륨(TETRA)",
+        "Volume(테트라)",
+        "Volume(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/bk-91/gh-90/ea134d0cd6c02ed9d3a02cec91d87dbd.webp"
+    },
+    {
+      "id": 352001,
+      "name": "브래디",
+      "label": "브래디",
+      "english": "Bready",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "브래디(테트라)",
+        "브래디(TETRA)",
+        "Bready(테트라)",
+        "Bready(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/jg-08/ei-66/39336b080022522940a3de9209efa776.webp"
+    },
+    {
+      "id": 327001,
+      "name": "블랑",
+      "label": "블랑",
+      "english": "Blanc",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "블랑(테트라)",
+        "블랑(TETRA)",
+        "Blanc(테트라)",
+        "Blanc(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/pv-37/qv-38/2884d487616b8dbbc109232437e67eeb.webp"
+    },
+    {
+      "id": 338101,
+      "name": "비스킷",
+      "label": "비스킷",
+      "english": "Biscuit",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "비스킷(테트라)",
+        "비스킷(TETRA)",
+        "Biscuit(테트라)",
+        "Biscuit(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/ar-68/mh-60/322310e800c000f9f2d2635e15361782.webp"
+    },
+    {
+      "id": 328201,
+      "name": "사쿠라",
+      "label": "사쿠라(테트라)",
+      "english": "Sakura",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "사쿠라(테트라)",
+        "사쿠라(TETRA)",
+        "Sakura(테트라)",
+        "Sakura(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/tz-64/kb-54/081e41c54055e51dbc0c5c230c712b7b.webp"
+    },
+    {
+      "id": 328401,
+      "name": "사쿠라 : 블룸 인 서머",
+      "label": "사쿠라 : 블룸 인 서머",
+      "english": "Sakura: Bloom in Summer",
+      "company": "TETRA",
+      "isVariant": true,
+      "aliases": [
+        "사쿠라 : 블룸 인 서머(테트라)",
+        "사쿠라 : 블룸 인 서머(TETRA)",
+        "Sakura: Bloom in Summer(테트라)",
+        "Sakura: Bloom in Summer(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/no-96/li-33/5c70abdad0741004f49c7a76cc9b515c.webp"
+    },
+    {
+      "id": 331201,
+      "name": "소다",
+      "label": "소다",
+      "english": "Soda",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "소다(테트라)",
+        "소다(TETRA)",
+        "Soda(테트라)",
+        "Soda(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/zo-97/oa-63/91dc439091b6a061b3438f400135929e.webp"
+    },
+    {
+      "id": 331401,
+      "name": "소다 : 트윙클링 바니",
+      "label": "소다 : 트윙클링 바니",
+      "english": "Soda: Twinkling Bunny",
+      "company": "TETRA",
+      "isVariant": true,
+      "aliases": [
+        "소다 : 트윙클링 바니(테트라)",
+        "소다 : 트윙클링 바니(TETRA)",
+        "Soda: Twinkling Bunny(테트라)",
+        "Soda: Twinkling Bunny(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/ew-37/je-95/d91ddff1491b924598d3804e6f811c92.webp"
+    },
+    {
+      "id": 314001,
+      "name": "슈가",
+      "label": "슈가",
+      "english": "Sugar",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "슈가(테트라)",
+        "슈가(TETRA)",
+        "Sugar(테트라)",
+        "Sugar(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/ye-20/pc-53/b8231297ba3db5cc1150f08c049e4baa.webp"
+    },
+    {
+      "id": 301201,
+      "name": "아니스",
+      "label": "아니스",
+      "english": "Anis",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "아니스(테트라)",
+        "아니스(TETRA)",
+        "Anis(테트라)",
+        "Anis(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/ac-35/in-01/7f8156284db920fa5a836bcac92f6629.webp"
+    },
+    {
+      "id": 301701,
+      "name": "아니스 : 스타",
+      "label": "아니스 : 스타",
+      "english": "Anis: Star",
+      "company": "TETRA",
+      "isVariant": true,
+      "aliases": [
+        "아니스 : 스타(테트라)",
+        "아니스 : 스타(TETRA)",
+        "Anis: Star(테트라)",
+        "Anis: Star(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/ni-11/os-70/cfc1f77baa6c70c165d42601357899cd.webp"
+    },
+    {
+      "id": 301501,
+      "name": "아니스 : 스파클링 서머",
+      "label": "아니스 : 스파클링 서머",
+      "english": "Anis: Sparkling Summer",
+      "company": "TETRA",
+      "isVariant": true,
+      "aliases": [
+        "아니스 : 스파클링 서머(테트라)",
+        "아니스 : 스파클링 서머(TETRA)",
+        "Anis: Sparkling Summer(테트라)",
+        "Anis: Sparkling Summer(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/tt-78/to-38/3870984ac10047733bc6b57502f3378c.webp"
+    },
+    {
+      "id": 343201,
+      "name": "아리아",
+      "label": "아리아",
+      "english": "Aria",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "아리아(테트라)",
+        "아리아(TETRA)",
+        "Aria(테트라)",
+        "Aria(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/pt-95/rr-64/fdcbe4c90a314bb81ec130b4c825a06c.webp"
+    },
+    {
+      "id": 357001,
+      "name": "아크레인저 블랙",
+      "label": "아크레인저 블랙",
+      "english": "Ark Ranger Black",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "아크레인저 블랙(테트라)",
+        "아크레인저 블랙(TETRA)",
+        "Ark Ranger Black(테트라)",
+        "Ark Ranger Black(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/ph-00/wi-01/ebd5bfb8f5ad5847eb8a2db2dbebf228.webp"
+    },
+    {
+      "id": 319101,
+      "name": "앨리스",
+      "label": "앨리스",
+      "english": "Alice",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "앨리스(테트라)",
+        "앨리스(TETRA)",
+        "Alice(테트라)",
+        "Alice(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/gv-09/qw-46/75b345c5e360f78e886b7daa5697e434.webp"
+    },
+    {
+      "id": 319501,
+      "name": "앨리스 : 원더랜드 바니",
+      "label": "앨리스 : 원더랜드 바니",
+      "english": "Alice: Wonderland Bunny",
+      "company": "TETRA",
+      "isVariant": true,
+      "aliases": [
+        "앨리스 : 원더랜드 바니(테트라)",
+        "앨리스 : 원더랜드 바니(TETRA)",
+        "Alice: Wonderland Bunny(테트라)",
+        "Alice: Wonderland Bunny(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/fs-80/nh-57/d2050eed5ccc0192bbcb0e0cdcac2c3a.webp"
+    },
+    {
+      "id": 320101,
+      "name": "얀",
+      "label": "얀",
+      "english": "Yan",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "얀(테트라)",
+        "얀(TETRA)",
+        "Yan(테트라)",
+        "Yan(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/os-66/so-41/3daf068e85df1185adc13e8f14c268e9.webp"
+    },
+    {
+      "id": 331001,
+      "name": "에이드",
+      "label": "에이드",
+      "english": "Ade",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "에이드(테트라)",
+        "에이드(TETRA)",
+        "Ade(테트라)",
+        "Ade(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/fz-65/mt-84/2de03955874647e6b64b8363018bc2d9.webp"
+    },
+    {
+      "id": 331501,
+      "name": "에이드 : 에이전트 바니",
+      "label": "에이드 : 에이전트 바니",
+      "english": "Ade: Agent Bunny",
+      "company": "TETRA",
+      "isVariant": true,
+      "aliases": [
+        "에이드 : 에이전트 바니(테트라)",
+        "에이드 : 에이전트 바니(TETRA)",
+        "Ade: Agent Bunny(테트라)",
+        "Ade: Agent Bunny(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/tf-41/zb-01/4844e4d5e35257607e7dfb58f7a666a9.webp"
+    },
+    {
+      "id": 321001,
+      "name": "엑시아",
+      "label": "엑시아",
+      "english": "Exia",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "엑시아(테트라)",
+        "엑시아(TETRA)",
+        "Exia(테트라)",
+        "Exia(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/ii-26/lj-97/b511b0f11e0ee358ee6b4f7a995d83db.webp"
+    },
+    {
+      "id": 317101,
+      "name": "율하",
+      "label": "율하",
+      "english": "Yulha",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "율하(테트라)",
+        "율하(TETRA)",
+        "Yulha(테트라)",
+        "Yulha(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/xk-26/us-78/5ee44c9e8591369d60be8eca023eaf36.webp"
+    },
+    {
+      "id": 331101,
+      "name": "코코아",
+      "label": "코코아",
+      "english": "Cocoa",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "코코아(테트라)",
+        "코코아(TETRA)",
+        "Cocoa(테트라)",
+        "Cocoa(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/ui-69/cq-89/0c68334ef72cd441e0590a6ec8423264.webp"
+    },
+    {
+      "id": 352101,
+      "name": "크러스트",
+      "label": "크러스트",
+      "english": "Crust",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "크러스트(테트라)",
+        "크러스트(TETRA)",
+        "Crust(테트라)",
+        "Crust(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/xp-12/uf-71/a7ee606492bb922a060c2c336bd43872.webp"
+    },
+    {
+      "id": 355101,
+      "name": "클레이",
+      "label": "클레이",
+      "english": "Clay",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "클레이(테트라)",
+        "클레이(TETRA)",
+        "Clay(테트라)",
+        "Clay(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/uf-21/jy-91/620397b71778b8c8884d0fe83a61b9d3.webp"
+    },
+    {
+      "id": 324201,
+      "name": "폴크방",
+      "label": "폴크방",
+      "english": "Folkwang",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "폴크방(테트라)",
+        "폴크방(TETRA)",
+        "Folkwang(테트라)",
+        "Folkwang(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/yn-67/wg-50/937028410bf5d7c8fa5c81000e140ee5.webp"
+    },
+    {
+      "id": 360101,
+      "name": "프리카",
+      "label": "프리카",
+      "english": "Prika",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "프리카(테트라)",
+        "프리카(TETRA)",
+        "Prika(테트라)",
+        "Prika(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/uy-44/kb-68/c4ba87906faff8cfc78af5ba6429e5be.webp"
+    },
+    {
+      "id": 314201,
+      "name": "프림",
+      "label": "프림",
+      "english": "Frima",
+      "company": "TETRA",
+      "isVariant": false,
+      "aliases": [
+        "프림(테트라)",
+        "프림(TETRA)",
+        "Frima(테트라)",
+        "Frima(TETRA)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/rt-52/kg-85/75cd454109aa4e98bba1ce0c26354234.webp"
+    },
+    {
+      "id": 451401,
+      "name": "그레이브",
+      "label": "그레이브",
+      "english": "Grave",
+      "company": "PILGRIM",
+      "isVariant": false,
+      "aliases": [
+        "그레이브(필그림)",
+        "그레이브(PILGRIM)",
+        "Grave(필그림)",
+        "Grave(PILGRIM)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/gr-60/he-25/d53975fb3ddd520d13aa07e5614ad59e.webp"
+    },
+    {
+      "id": 422301,
+      "name": "나유타",
+      "label": "나유타",
+      "english": "Nayuta",
+      "company": "PILGRIM",
+      "isVariant": false,
+      "aliases": [
+        "나유타(필그림)",
+        "나유타(PILGRIM)",
+        "Nayuta(필그림)",
+        "Nayuta(PILGRIM)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/dl-88/pz-87/e3532447b3ca028770c2a5ee149e746e.webp"
+    },
+    {
+      "id": 423201,
+      "name": "노아",
+      "label": "노아",
+      "english": "Noah",
+      "company": "PILGRIM",
+      "isVariant": false,
+      "aliases": [
+        "노아(필그림)",
+        "노아(PILGRIM)",
+        "Noah(필그림)",
+        "Noah(PILGRIM)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/ny-72/ye-66/25105efed0f5f34106c41096571b9ccd.webp"
+    },
+    {
+      "id": 426101,
+      "name": "니힐리스타",
+      "label": "니힐리스타",
+      "english": "Nihilister",
+      "company": "PILGRIM",
+      "isVariant": false,
+      "aliases": [
+        "니힐리스타(필그림)",
+        "니힐리스타(PILGRIM)",
+        "Nihilister(필그림)",
+        "Nihilister(PILGRIM)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/tp-46/iq-59/2af46ebcae9e0510ebecb7dc93de412b.webp"
+    },
+    {
+      "id": 423301,
+      "name": "도로시",
+      "label": "도로시",
+      "english": "Dorothy",
+      "company": "PILGRIM",
+      "isVariant": false,
+      "aliases": [
+        "도로시(필그림)",
+        "도로시(PILGRIM)",
+        "Dorothy(필그림)",
+        "Dorothy(PILGRIM)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/ch-76/ob-71/d96d3a6d5c55ef7dd76f83181da11869.webp"
+    },
+    {
+      "id": 423401,
+      "name": "도로시 : 세렌디피티",
+      "label": "도로시 : 세렌디피티",
+      "english": "Dorothy: Serendipity",
+      "company": "PILGRIM",
+      "isVariant": true,
+      "aliases": [
+        "도로시 : 세렌디피티(필그림)",
+        "도로시 : 세렌디피티(PILGRIM)",
+        "Dorothy: Serendipity(필그림)",
+        "Dorothy: Serendipity(PILGRIM)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/hn-05/ti-98/8eb1e9dd804ca8ac6788859d45a21432.webp"
+    },
+    {
+      "id": 422101,
+      "name": "라푼젤",
+      "label": "라푼젤",
+      "english": "Rapunzel",
+      "company": "PILGRIM",
+      "isVariant": false,
+      "aliases": [
+        "라푼젤(필그림)",
+        "라푼젤(PILGRIM)",
+        "Rapunzel(필그림)",
+        "Rapunzel(PILGRIM)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/yd-49/os-09/056e329e585ac334c1d13996bddd2e40.webp"
+    },
+    {
+      "id": 422601,
+      "name": "라푼젤 : 퓨어 그레이스",
+      "label": "라푼젤 : 퓨어 그레이스",
+      "english": "Rapunzel: Pure Grace",
+      "company": "PILGRIM",
+      "isVariant": true,
+      "aliases": [
+        "라푼젤 : 퓨어 그레이스(필그림)",
+        "라푼젤 : 퓨어 그레이스(PILGRIM)",
+        "Rapunzel: Pure Grace(필그림)",
+        "Rapunzel: Pure Grace(PILGRIM)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/cg-49/qk-47/395234037855a411afde71194af7edee.webp"
+    },
+    {
+      "id": 447001,
+      "name": "레드 후드",
+      "label": "레드 후드",
+      "english": "Red Hood",
+      "company": "PILGRIM",
+      "isVariant": false,
+      "aliases": [
+        "레드 후드(필그림)",
+        "레드 후드(PILGRIM)",
+        "Red Hood(필그림)",
+        "Red Hood(PILGRIM)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/rq-60/ov-67/17f2cf990b5e85cef98eb8abc8db3c41.webp"
+    },
+    {
+      "id": 426201,
+      "name": "리버렐리오",
+      "label": "리버렐리오",
+      "english": "Liberalio",
+      "company": "PILGRIM",
+      "isVariant": false,
+      "aliases": [
+        "리버렐리오(필그림)",
+        "리버렐리오(PILGRIM)",
+        "Liberalio(필그림)",
+        "Liberalio(PILGRIM)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/hy-50/yn-64/6045c557bca29bcd35a65c8c99745ff0.webp"
+    },
+    {
+      "id": 451301,
+      "name": "리틀 머메이드",
+      "label": "리틀 머메이드",
+      "english": "Little Mermaid",
+      "company": "PILGRIM",
+      "isVariant": false,
+      "aliases": [
+        "리틀 머메이드(필그림)",
+        "리틀 머메이드(PILGRIM)",
+        "Little Mermaid(필그림)",
+        "Little Mermaid(PILGRIM)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/si-56/rh-20/2b99cf6d141638788d640b64cb84bf66.webp"
+    },
+    {
+      "id": 426001,
+      "name": "모더니아",
+      "label": "모더니아",
+      "english": "Modernia",
+      "company": "PILGRIM",
+      "isVariant": false,
+      "aliases": [
+        "모더니아(필그림)",
+        "모더니아(PILGRIM)",
+        "Modernia(필그림)",
+        "Modernia(PILGRIM)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/oj-18/dj-32/f4d49f875b1e112f42c2daf410aa7aac.webp"
+    },
+    {
+      "id": 422001,
+      "name": "스노우 화이트",
+      "label": "스노우 화이트",
+      "english": "Snow White",
+      "company": "PILGRIM",
+      "isVariant": false,
+      "aliases": [
+        "스노우 화이트(필그림)",
+        "스노우 화이트(PILGRIM)",
+        "Snow White(필그림)",
+        "Snow White(PILGRIM)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/ju-45/yv-04/b53ce55899781fc6401c2920e502ce90.webp"
+    },
+    {
+      "id": 422401,
+      "name": "스노우 화이트 : 이노센트 데이즈",
+      "label": "스노우 화이트 : 이노센트 데이즈",
+      "english": "Snow White: Innocent Days",
+      "company": "PILGRIM",
+      "isVariant": true,
+      "aliases": [
+        "스노우 화이트 : 이노센트 데이즈(필그림)",
+        "스노우 화이트 : 이노센트 데이즈(PILGRIM)",
+        "Snow White: Innocent Days(필그림)",
+        "Snow White: Innocent Days(PILGRIM)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/ir-17/vg-15/b8d876f051c25480985c999da5ae838a.webp"
+    },
+    {
+      "id": 447101,
+      "name": "스노우 화이트 : 헤비암즈",
+      "label": "스노우 화이트 : 헤비암즈",
+      "english": "Snow White: Heavy Arms",
+      "company": "PILGRIM",
+      "isVariant": true,
+      "aliases": [
+        "스노우 화이트 : 헤비암즈(필그림)",
+        "스노우 화이트 : 헤비암즈(PILGRIM)",
+        "Snow White: Heavy Arms(필그림)",
+        "Snow White: Heavy Arms(PILGRIM)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/ww-88/af-41/627884de8e4628efd7dbcb7a9e4ecf53.webp"
+    },
+    {
+      "id": 451101,
+      "name": "신데렐라",
+      "label": "신데렐라",
+      "english": "Cinderella",
+      "company": "PILGRIM",
+      "isVariant": false,
+      "aliases": [
+        "신데렐라(필그림)",
+        "신데렐라(PILGRIM)",
+        "Cinderella(필그림)",
+        "Cinderella(PILGRIM)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/yt-24/wd-87/86a69907ae0feeb218eb98d10eb9a131.webp"
+    },
+    {
+      "id": 451501,
+      "name": "신데렐라 : 크리스탈 웨이브",
+      "label": "신데렐라 : 크리스탈 웨이브",
+      "english": "Cinderella: Crystal Wave",
+      "company": "PILGRIM",
+      "isVariant": true,
+      "aliases": [
+        "신데렐라 : 크리스탈 웨이브(필그림)",
+        "신데렐라 : 크리스탈 웨이브(PILGRIM)",
+        "Cinderella: Crystal Wave(필그림)",
+        "Cinderella: Crystal Wave(PILGRIM)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/lx-88/ml-52/9a54283cdd0c15a9b554810488563775.webp"
+    },
+    {
+      "id": 423101,
+      "name": "이사벨",
+      "label": "이사벨",
+      "english": "Isabel",
+      "company": "PILGRIM",
+      "isVariant": false,
+      "aliases": [
+        "이사벨(필그림)",
+        "이사벨(PILGRIM)",
+        "Isabel(필그림)",
+        "Isabel(PILGRIM)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/is-44/sx-39/7e26188409a095e0ddb74a7199f352a3.webp"
+    },
+    {
+      "id": 433101,
+      "name": "차임",
+      "label": "차임",
+      "english": "Chime",
+      "company": "PILGRIM",
+      "isVariant": false,
+      "aliases": [
+        "차임(필그림)",
+        "차임(PILGRIM)",
+        "Chime(필그림)",
+        "Chime(PILGRIM)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/gj-83/uh-26/240c18e28ea45d1f83b765a3666863b1.webp"
+    },
+    {
+      "id": 433001,
+      "name": "크라운",
+      "label": "크라운",
+      "english": "Crown",
+      "company": "PILGRIM",
+      "isVariant": false,
+      "aliases": [
+        "크라운(필그림)",
+        "크라운(PILGRIM)",
+        "Crown(필그림)",
+        "Crown(PILGRIM)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/pk-48/pa-98/04a73cd1bfa43f3a1078564107ad8336.webp"
+    },
+    {
+      "id": 423001,
+      "name": "하란",
+      "label": "하란",
+      "english": "Harran",
+      "company": "PILGRIM",
+      "isVariant": false,
+      "aliases": [
+        "하란(필그림)",
+        "하란(PILGRIM)",
+        "Harran(필그림)",
+        "Harran(PILGRIM)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/uj-40/da-34/be88a23813da7d2a84e6ea0c1380626e.webp"
+    },
+    {
+      "id": 422201,
+      "name": "홍련",
+      "label": "홍련",
+      "english": "Scarlet",
+      "company": "PILGRIM",
+      "isVariant": false,
+      "aliases": [
+        "홍련(필그림)",
+        "홍련(PILGRIM)",
+        "Scarlet(필그림)",
+        "Scarlet(PILGRIM)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/dj-77/ac-82/a26102dc0f5816931c09c85040b11993.webp"
+    },
+    {
+      "id": 422501,
+      "name": "홍련 : 흑영",
+      "label": "홍련 : 흑영",
+      "english": "Scarlet: Black Shadow",
+      "company": "PILGRIM",
+      "isVariant": true,
+      "aliases": [
+        "홍련 : 흑영(필그림)",
+        "홍련 : 흑영(PILGRIM)",
+        "Scarlet: Black Shadow(필그림)",
+        "Scarlet: Black Shadow(PILGRIM)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/xa-21/ld-20/6e3b8dbfd367f6b1c0977866c27cd40b.webp"
+    },
+    {
+      "id": 581001,
+      "name": "2B",
+      "label": "2B",
+      "english": "2B",
+      "company": "ABNORMAL",
+      "isVariant": false,
+      "aliases": [
+        "2B(어브노멀)",
+        "2B(ABNORMAL)",
+        "2B(어브노멀)",
+        "2B(ABNORMAL)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/sz-58/wj-23/04e83950cb81d486177ec7e63f5a5024.webp"
+    },
+    {
+      "id": 581101,
+      "name": "A2",
+      "label": "A2",
+      "english": "A2",
+      "company": "ABNORMAL",
+      "isVariant": false,
+      "aliases": [
+        "A2(어브노멀)",
+        "A2(ABNORMAL)",
+        "A2(어브노멀)",
+        "A2(ABNORMAL)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/yf-86/bq-50/0ab0b87b5b5493f50f6eee73ee67a413.webp"
+    },
+    {
+      "id": 582201,
+      "name": "람",
+      "label": "람",
+      "english": "Ram",
+      "company": "ABNORMAL",
+      "isVariant": false,
+      "aliases": [
+        "람(어브노멀)",
+        "람(ABNORMAL)",
+        "Ram(어브노멀)",
+        "Ram(ABNORMAL)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/oa-10/ez-61/0677003794a7634753de11d029de2140.webp"
+    },
+    {
+      "id": 583101,
+      "name": "레이",
+      "label": "레이",
+      "english": "Rei",
+      "company": "ABNORMAL",
+      "isVariant": false,
+      "aliases": [
+        "레이(어브노멀)",
+        "레이(ABNORMAL)",
+        "Rei(어브노멀)",
+        "Rei(ABNORMAL)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/hq-69/xu-18/0077b0ff94f14da0b36953942e755b77.webp"
+    },
+    {
+      "id": 583401,
+      "name": "레이 (가칭)",
+      "label": "레이 (가칭)",
+      "english": "Rei (Tentative Name)",
+      "company": "ABNORMAL",
+      "isVariant": true,
+      "aliases": [
+        "레이 (가칭)(어브노멀)",
+        "레이 (가칭)(ABNORMAL)",
+        "Rei (Tentative Name)(어브노멀)",
+        "Rei (Tentative Name)(ABNORMAL)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/se-37/ei-24/657220f742f62cf80b454f2574c18b54.webp"
+    },
+    {
+      "id": 585101,
+      "name": "레이븐",
+      "label": "레이븐",
+      "english": "Raven",
+      "company": "ABNORMAL",
+      "isVariant": false,
+      "aliases": [
+        "레이븐(어브노멀)",
+        "레이븐(ABNORMAL)",
+        "Raven(어브노멀)",
+        "Raven(ABNORMAL)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/tr-83/pl-54/140184abd98aeb95a03860bd312949f8.webp"
+    },
+    {
+      "id": 582001,
+      "name": "렘",
+      "label": "렘",
+      "english": "Rem",
+      "company": "ABNORMAL",
+      "isVariant": false,
+      "aliases": [
+        "렘(어브노멀)",
+        "렘(ABNORMAL)",
+        "Rem(어브노멀)",
+        "Rem(ABNORMAL)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/rv-46/jv-29/90809e84cd523f7543a0af5525641219.webp"
+    },
+    {
+      "id": 585201,
+      "name": "릴리",
+      "label": "릴리",
+      "english": "Lily",
+      "company": "ABNORMAL",
+      "isVariant": false,
+      "aliases": [
+        "릴리(어브노멀)",
+        "릴리(ABNORMAL)",
+        "Lily(어브노멀)",
+        "Lily(ABNORMAL)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/ia-87/fi-59/19c32db15d70f448b07b45f9691aad98.webp"
+    },
+    {
+      "id": 583201,
+      "name": "마리",
+      "label": "마리",
+      "english": "Mari",
+      "company": "ABNORMAL",
+      "isVariant": false,
+      "aliases": [
+        "마리(어브노멀)",
+        "마리(ABNORMAL)",
+        "Mari(어브노멀)",
+        "Mari(ABNORMAL)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/yp-05/je-91/091b8ced66cbf8012b34b4750afcbf08.webp"
+    },
+    {
+      "id": 580001,
+      "name": "마키마",
+      "label": "마키마",
+      "english": "Makima",
+      "company": "ABNORMAL",
+      "isVariant": false,
+      "aliases": [
+        "마키마(어브노멀)",
+        "마키마(ABNORMAL)",
+        "Makima(어브노멀)",
+        "Makima(ABNORMAL)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/ik-63/se-92/0b17bb8415d0511ab45546f94cf8e39d.webp"
+    },
+    {
+      "id": 583301,
+      "name": "미사토",
+      "label": "미사토",
+      "english": "Misato",
+      "company": "ABNORMAL",
+      "isVariant": false,
+      "aliases": [
+        "미사토(어브노멀)",
+        "미사토(ABNORMAL)",
+        "Misato(어브노멀)",
+        "Misato(ABNORMAL)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/my-09/zb-96/44454e67ed1fcdfecf1bb0e07f7254cd.webp"
+    },
+    {
+      "id": 583601,
+      "name": "사쿠라",
+      "label": "사쿠라(어브노멀)",
+      "english": "Sakura",
+      "company": "ABNORMAL",
+      "isVariant": false,
+      "aliases": [
+        "사쿠라(어브노멀)",
+        "사쿠라(ABNORMAL)",
+        "Sakura(어브노멀)",
+        "Sakura(ABNORMAL)",
+        "스즈하라 사쿠라",
+        "사쿠라 스즈하라"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/lt-69/zm-56/9f80c3e51c4cccbbc8e8e4fe584cf963.webp"
+    },
+    {
+      "id": 583001,
+      "name": "아스카",
+      "label": "아스카",
+      "english": "Asuka",
+      "company": "ABNORMAL",
+      "isVariant": false,
+      "aliases": [
+        "아스카(어브노멀)",
+        "아스카(ABNORMAL)",
+        "Asuka(어브노멀)",
+        "Asuka(ABNORMAL)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/th-65/oa-59/dae1a6a26022ebe8de729df65b7b1a78.webp"
+    },
+    {
+      "id": 583501,
+      "name": "아스카 : WILLE",
+      "label": "아스카 : WILLE",
+      "english": "Asuka: WILLE",
+      "company": "ABNORMAL",
+      "isVariant": true,
+      "aliases": [
+        "아스카 : WILLE(어브노멀)",
+        "아스카 : WILLE(ABNORMAL)",
+        "Asuka: WILLE(어브노멀)",
+        "Asuka: WILLE(ABNORMAL)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/gn-41/uf-29/0664c6b8c1367369612868307a225530.webp"
+    },
+    {
+      "id": 587201,
+      "name": "아이기스",
+      "label": "아이기스",
+      "english": "Aigis",
+      "company": "ABNORMAL",
+      "isVariant": false,
+      "aliases": [
+        "아이기스(어브노멀)",
+        "아이기스(ABNORMAL)",
+        "Aigis(어브노멀)",
+        "Aigis(ABNORMAL)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/rl-70/wz-95/299445690a5ae3849c194e4ee25eaa17.webp"
+    },
+    {
+      "id": 582101,
+      "name": "에밀리아",
+      "label": "에밀리아",
+      "english": "Emilia",
+      "company": "ABNORMAL",
+      "isVariant": false,
+      "aliases": [
+        "에밀리아(어브노멀)",
+        "에밀리아(ABNORMAL)",
+        "Emilia(어브노멀)",
+        "Emilia(ABNORMAL)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/iu-81/zs-34/8826ec03f4ef59e4c7d5efc1d0b580bc.webp"
+    },
+    {
+      "id": 584001,
+      "name": "에이다",
+      "label": "에이다",
+      "english": "Ada",
+      "company": "ABNORMAL",
+      "isVariant": false,
+      "aliases": [
+        "에이다(어브노멀)",
+        "에이다(ABNORMAL)",
+        "Ada(어브노멀)",
+        "Ada(ABNORMAL)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/dw-60/mc-43/9770466ef17196f2489b791a7cd17207.webp"
+    },
+    {
+      "id": 587101,
+      "name": "유키코",
+      "label": "유키코",
+      "english": "Yukiko",
+      "company": "ABNORMAL",
+      "isVariant": false,
+      "aliases": [
+        "유키코(어브노멀)",
+        "유키코(ABNORMAL)",
+        "Yukiko(어브노멀)",
+        "Yukiko(ABNORMAL)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/dc-66/rs-68/f1d8b577b90446d610a577a5d7610811.webp"
+    },
+    {
+      "id": 585001,
+      "name": "이브",
+      "label": "이브",
+      "english": "EVE",
+      "company": "ABNORMAL",
+      "isVariant": false,
+      "aliases": [
+        "이브(어브노멀)",
+        "이브(ABNORMAL)",
+        "EVE(어브노멀)",
+        "EVE(ABNORMAL)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/ol-55/ke-27/b8c1242d8acfa0f29e89a76f58417af4.webp"
+    },
+    {
+      "id": 584101,
+      "name": "질",
+      "label": "질",
+      "english": "Jill",
+      "company": "ABNORMAL",
+      "isVariant": false,
+      "aliases": [
+        "질(어브노멀)",
+        "질(ABNORMAL)",
+        "Jill(어브노멀)",
+        "Jill(ABNORMAL)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/sf-64/bz-48/3a57bb50f4d982a0d98f68283de629ee.webp"
+    },
+    {
+      "id": 586001,
+      "name": "치사토",
+      "label": "치사토",
+      "english": "Chisato",
+      "company": "ABNORMAL",
+      "isVariant": false,
+      "aliases": [
+        "치사토(어브노멀)",
+        "치사토(ABNORMAL)",
+        "Chisato(어브노멀)",
+        "Chisato(ABNORMAL)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/nh-43/ig-11/e4bc33b9c6f01f42e9b1ee8ddbabacb5.webp"
+    },
+    {
+      "id": 586201,
+      "name": "쿠루미",
+      "label": "쿠루미",
+      "english": "Kurumi",
+      "company": "ABNORMAL",
+      "isVariant": false,
+      "aliases": [
+        "쿠루미(어브노멀)",
+        "쿠루미(ABNORMAL)",
+        "Kurumi(어브노멀)",
+        "Kurumi(ABNORMAL)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/sp-82/jn-89/8d1ff5d7bd09253e43b2f22df1f09a0d.webp"
+    },
+    {
+      "id": 587001,
+      "name": "퀸(마코토)",
+      "label": "퀸(마코토)",
+      "english": "Queen (Makoto)",
+      "company": "ABNORMAL",
+      "isVariant": false,
+      "aliases": [
+        "퀸(마코토)(어브노멀)",
+        "퀸(마코토)(ABNORMAL)",
+        "Queen (Makoto)(어브노멀)",
+        "Queen (Makoto)(ABNORMAL)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/xw-38/ml-41/d91c9e7b57e98a6a5106f35e84c3b262.webp"
+    },
+    {
+      "id": 584201,
+      "name": "클레어",
+      "label": "클레어",
+      "english": "Claire",
+      "company": "ABNORMAL",
+      "isVariant": false,
+      "aliases": [
+        "클레어(어브노멀)",
+        "클레어(ABNORMAL)",
+        "Claire(어브노멀)",
+        "Claire(ABNORMAL)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/xl-92/hg-75/4a084e37c2d8bf650bd149de23ad692a.webp"
+    },
+    {
+      "id": 586101,
+      "name": "타키나",
+      "label": "타키나",
+      "english": "Takina",
+      "company": "ABNORMAL",
+      "isVariant": false,
+      "aliases": [
+        "타키나(어브노멀)",
+        "타키나(ABNORMAL)",
+        "Takina(어브노멀)",
+        "Takina(ABNORMAL)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/eg-78/tq-84/7a0c48465473578ff4ed2c707d49eff9.webp"
+    },
+    {
+      "id": 581201,
+      "name": "파스칼",
+      "label": "파스칼",
+      "english": "Pascal",
+      "company": "ABNORMAL",
+      "isVariant": false,
+      "aliases": [
+        "파스칼(어브노멀)",
+        "파스칼(ABNORMAL)",
+        "Pascal(어브노멀)",
+        "Pascal(ABNORMAL)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/mo-90/rn-55/0d767ab4d3578ce4d34130d52ce5ae6c.webp"
+    },
+    {
+      "id": 580101,
+      "name": "파워",
+      "label": "파워",
+      "english": "Power",
+      "company": "ABNORMAL",
+      "isVariant": false,
+      "aliases": [
+        "파워(어브노멀)",
+        "파워(ABNORMAL)",
+        "Power(어브노멀)",
+        "Power(ABNORMAL)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/nq-91/do-66/9d4c0daa156ea3d9d5f979677802fe37.webp"
+    },
+    {
+      "id": 580201,
+      "name": "히메노",
+      "label": "히메노",
+      "english": "Himeno",
+      "company": "ABNORMAL",
+      "isVariant": false,
+      "aliases": [
+        "히메노(어브노멀)",
+        "히메노(ABNORMAL)",
+        "Himeno(어브노멀)",
+        "Himeno(ABNORMAL)"
+      ],
+      "image": "https://sg-tools-cdn.blablalink.com/bz-95/tl-71/f925089f1a559c84ba672ffa02cf9276.webp"
+    }
+  ]
+}
